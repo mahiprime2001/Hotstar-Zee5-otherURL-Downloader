@@ -25,5 +25,5 @@ All assets and code are under the [MIT LICENSE](LICENSE) and in the public
 domain unless specified otherwise.
 
 ### Badges
-- [Uptime Repository](https://github.com/mahiprime2001) percentage: ![uptime](https://img.shields.io/badge/uptime-100%25-brightgreen)
+- ![uptime](https://img.shields.io/badge/uptime-100%25-brightgreen)
 - ![Downloads](https://img.shields.io/badge/downloads-34%2Fmonth-lightgrey)
