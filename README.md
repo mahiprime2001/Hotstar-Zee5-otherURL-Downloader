@@ -24,6 +24,4 @@ To Install the python Script You must get the python and just run the code, the 
 All assets and code are under the [MIT LICENSE](LICENSE) and in the public
 domain unless specified otherwise.
 
-### Badges
-- ![uptime](https://img.shields.io/badge/uptime-100%25-brightgreen)
-- ![Downloads](https://img.shields.io/badge/downloads-34%2Fmonth-lightgrey)
+- ![uptime](https://img.shields.io/badge/uptime-100%25-brightgreen) ![Downloads](https://img.shields.io/badge/downloads-34%2Fmonth-lightgrey)
